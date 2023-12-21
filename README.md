@@ -1,0 +1,1 @@
+In this project we are using California's housing data to predict housing prices. it's a regression task. install anaconda navigator through the link:https://www.anaconda.com/download download all the files from this repsitory. launch jupyter notebook in anaconda navigator 
